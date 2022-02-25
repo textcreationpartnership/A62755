@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King's Most Excellent Majesty the humble address of divers of the gentry, merchants and others, Your Majesties most loyal and dutiful subjects, inhabiting in Boston, Charlestown and places adjacent, within Your Majesties territory and dominion of New-England, in America.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62755</idno>
+            <idno type="STC">Wing T1501</idno>
+            <idno type="STC">ESTC R10546</idno>
+            <idno type="EEBO-CITATION">12590743</idno>
+            <idno type="OCLC">ocm 12590743</idno>
+            <idno type="VID">63909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63909)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 676:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King's Most Excellent Majesty the humble address of divers of the gentry, merchants and others, Your Majesties most loyal and dutiful subjects, inhabiting in Boston, Charlestown and places adjacent, within Your Majesties territory and dominion of New-England, in America.</title>
+                  <author>Hammond, Lawrence, d. 1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: L.H.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New England --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:63909:1" rendition="simple:additions"/>
+            <head>TO THE KING'S MOST Excellent Majeſty.</head>
+            <head type="sub">THE Humble Addreſs of divers of the Gentry, Merchants and others, Your Majeſties moſt Loyal and Dutiful Subjects, Inhabiting in <hi>Boſton, Char<g ref="char:EOLhyphen"/>leſtown</hi> and Places adjacent, within Your Majeſties Territory and Dominion of <hi>New-England,</hi> in <hi>America.</hi>
+            </head>
+            <opener>In Muſt Humble manner Sheweth.</opener>
+            <p>That many of us in our late Humble Addreſs, proſtrated our ſelves at Your Royal Feet, and ſhould with all Silence and Humility have waited Your Royal Will and Pleaſure, did not Your Majeſties Intereſt and our peace and ſafety at this day, more urgently enforce us to ſpread before Your Sacred Majeſty, the deplorable Eſtate and Condition of this Your Territory and Dominion. The late Revolution dividing the ſaid Terri<g ref="char:EOLhyphen"/>tory into ten Parts or Colonies, <hi>viz. Pemaquid, Province of Main, New-Hampſhire, Maſſachuſets, Plymouth, Rhoad-Iland, King's Province, Connections, New York,</hi> and <hi>Eaſt</hi> and <hi>Weſt Jerſyes,</hi> thereby much debilitating each others, and giving great advantages to our Enemies, the <hi>French</hi> and <hi>Indians;</hi> and many hundreds of Your Majeſties Subjects Murthered and Captivated: <hi>Pemaquid,</hi> all the Province of <hi>Main,</hi> ſave three Towns, and <hi>Scenecdeka</hi> in the Colony of <hi>New-York,</hi> the Frontier Town of <hi>Canada</hi> and <hi>Inlet</hi> to <hi>New-England,</hi> being ſinco deſtroyed: Some Depredations made upon <hi>New-Hampſhire</hi> and the <hi>Maſſachu<g ref="char:EOLhyphen"/>ſets,</hi> and all other the out-Towns in imminent danger, and Your Majeſties poor Subjects there in great Diſtreſſes and Fears, being expos'd to the Rapine and Cruelty of the Enemy, whenever attack by them.</p>
+            <p>That an Expediton was made by ſome of Your Majeſties Subjects in the <hi>Maſ<g ref="char:EOLhyphen"/>ſachuſets</hi> Colony againſt the <hi>French</hi> at <hi>Port-Royal,</hi> who ſurrender'd themſelves upon Articles; but no care taken to preſerve the ſame for Your Majeſties ſer<g ref="char:EOLhyphen"/>vice, little Annoyance given to the Enemy by that, or any other Enterprize hi<g ref="char:EOLhyphen"/>therto engag'd in.</p>
+            <pb n="2" facs="tcp:63909:2"/>
+            <p> That an Agreement was made by thoſe who pretend to Govern Your Ma<g ref="char:EOLhyphen"/>jeſties ſaid Colonies, to make an Attaque upon the <hi>French</hi> at <hi>Canada.</hi> To which End New-<hi>York</hi> and <hi>Connecticut</hi> Colonies were to r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe and ſend by Land of the <hi>Engliſh</hi> and five Nations of the <hi>Indians</hi> 2000 Men And Your Majeſties Colonies of the <hi>Maſſachuſets</hi> and <hi>Plymouth</hi> were to Equip a Navy by Sea o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 32 Sail, and 2200 Souldiers and Marriners, which (without Your Royal Com<g ref="char:EOLhyphen"/>miſſion or Order) was accordingly done. But the Land forces fail'd of their performance; and the Navy ſent to <hi>Quebeck</hi> being defeated, the whole Deſign was fruſtrated, to the almoſt Ruine and Deſtruction of Your Majeſties Subjects here, being ſet forth at a vaſt Expence, which beſide the former heavy Taxes, will leave, even the <hi>Maſſachuſets</hi> Colony (as we Conjecture) in further Ar<g ref="char:EOLhyphen"/>rears of at leaſt 50000 l. Many of Your poor Subjects alſo being deſtroyed by the Enemy, and Dead by Diſtempers and Diſeaſes, happening among them in the ſaid Expedition.</p>
+            <p>That by Reaſon of the want of Government ſettl'd by Your Majeſty, the Di<g ref="char:EOLhyphen"/>viſions and Strifes at New-<hi>York,</hi> thro' the Arbitrary Impoſitions and Exorbitant proceedings of the pretended Governour there, are Riſen to ſuch a Height, that Your Subjects in that Colony have lately taken up Arms one againſt ano<g ref="char:EOLhyphen"/>ther, and ſome Blood is already ſpilt; which will further weaken Your Ma<g ref="char:EOLhyphen"/>jeſties poor Subjects, and greatly encourage the Enemy, whoſe Return upon us by Land, and Men of War from <hi>France</hi> by Sea in the Spring, we have great Reaſon to fear: Whom to Reſiſt, thro' want of Your Majeſties Government as alſo of Arms and Ammunition to defend our ſelves, we ſhall be utterly incapa<g ref="char:EOLhyphen"/>citated for.</p>
+            <p>DREAD SOVERAIGN, We Your poor, Loyal, Diſtreſſed Subjects therefore humbly ſupplicate Your Royal favour to be Extended towards us, in Commiſerating our Lamentable Eſtate, and that You will be graciouſly pleaſed to take us into Your immediate Care and Protection, and ſend us ſuch ſpeedy Relief and Aſſiſtance as in Your Princely Wiſdom ſhall ſeem moſt meet, to ſave us and ours, together with Your Majeſties Intereſt in theſe Parts from Total Ruine:</p>
+            <closer>
+               <signed>And your moſt obedient and Loyal Subjects, as in all Duty bound, will ever pray for Your Majeſties, long and proſperous Reign,
+<list>
+                     <item>Thom. Graffort.</item>
+                     <item>P. Bowden</item>
+                     <item>Dav. Waterhouſe.</item>
+                     <item>Laur. Hammond.</item>
+                     <item>Nath. Dows.</item>
+                     <item>Nath. Rand.</item>
+                     <item>John Cusler, <hi>Jun.</hi>
+                     </item>
+                     <item>Tim. Gutler.</item>
+                     <item>Richard Sprague.</item>
+                     <item>Fr. Littelfild.</item>
+                     <item>John Hammond.</item>
+                     <item>John Nelſon.</item>
+                     <item>David Jeffries.</item>
+                     <item>Benj. Mountfort</item>
+                     <item>Samuel Phillips.</item>
+                     <item>Henry Mountfort.</item>
+                     <item>Thom. Edwards</item>
+                     <item>Edward Gouge.</item>
+                     <item>Fra. Foxcroft.</item>
+                     <item>James Lloyd.</item>
+                     <item>Tho. Newton.</item>
+                     <item>Dan. Allen.</item>
+                     <item>Sam. Walker.</item>
+                     <item>Nich. Manning</item>
+                     <item>Giles Dyer.</item>
+                     <item>Geo. Raſin.</item>
+                     <item>Jo. Herb. Coward.</item>
+                     <item>Natt. Shannon.</item>
+                     <item>Nicho. Tipp<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</item>
+                     <item>John Soames.</item>
+                     <item>Thomas Greaves.</item>
+                     <item>Nico. Paige.</item>
+                     <item>Edward Shippen.</item>
+                     <item>Edward Palmes.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ultis aliis.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:63909:2" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <hi>Charleſtown</hi> New-<hi>England,</hi> 
+                  <date>
+                     <hi>November</hi> the 22d. 1690.</date>
+               </dateline>
+               <salute>Worthy SIR,</salute>
+            </opener>
+            <p>THE ſorrowful Tidings of your Caption by the <hi>French,</hi> ſoon came to us. But long was it ere we receiv'd the Reviving News of your Health and Liberty, which we are deſirous to believe is true, tho we cannot yet be ſo happy as to receive the Confirmation of under your own hand; but with great Longing do wait for.</p>
+            <p>We are ſtill wading in the Mire of the Old Rebellion, long looking for De<g ref="char:EOLhyphen"/>liverance, but (as yet) it comes not, and that which adds to our Miſery, we are kept in ſo great a degree of Ignorance, (for want of certain Intelligence) o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Affairs at <hi>White Hall,</hi> that we have nothing to bear up our Spirits from ſinking, but the Improvment of our Reaſon upon the Juſtice of the Cauſe we have appear'd for and the Juſtice of our Prince upon whom(under God) we de<g ref="char:EOLhyphen"/>pend. This hath helped us to out-face many a Brunt, and to deſpiſe many Reproches and Columnies caſt upon us by thoſe, whoſe profeſſion ſoars High ſo that Religion, which had they well Learn'd the practick part thereof, would better inſtruct them. Yet, tho' we remain ignorant of our Affairs there, you are acquainted with the progreſs of Affairs here, which gives us ſome hopes that His Majeſty will not long with-hold that ſo neceſſary, and (by all good Sub<g ref="char:EOLhyphen"/>jects) ſo much deſir'd Settlement of Government over this people, in ſuch me<g ref="char:EOLhyphen"/>thods as may moſt Conduce to His ſervice, and the proſperity of His Loyal Sub<g ref="char:EOLhyphen"/>jects in this Land, the want of which a few Months longer, I fear (if God wonderfully prevent not) will leave us to almoſt utter Ruin. For ſince the <hi>Port-Royal</hi> deſign (whereby great Debts were Crontracted, and no ſervice to the King of Country, or Annoyance to the Enemy conſiderable, was attain'd.) A grand expedition to <hi>Quebeck</hi> in <hi>Canada</hi> hath been undertaken of 32. Sail of Veſſels, and 2200. Souldiers and Marriners, rais'd by the <hi>Maſſachuſets</hi> and <hi>Plimouth</hi> Colonies, who ſet ſail from <hi>Nantasket</hi> the <hi>9th.</hi> day of <hi>Auguſt,</hi> under Sir <hi>William Phipps</hi> General in expectation of a Land Army to conſiſt of 2000. Men, to be rais'd in <hi>Connecticut, New-York</hi> and the five Nations of the We<g ref="char:EOLhyphen"/>ſtern Indians, to advance for <hi>Mount-Royal,</hi> under Major General <hi>Fits-John Winthrop.</hi> But the methods propos'd for forming the Land Army ſailing, (few of the <hi>Indians,</hi> of whom the Army were Principally to conſiſt, appearing) after the Fleet was gone, the whole ſtrength of the Enemy is ſuppos'd to be drawn down to <hi>Quebeck</hi> (for it's reported by Captain <hi>Silvanus Davis,</hi> as I hear (who was a Captive there, and now redeem'd) that they were near 4000, ſtrong
+<pb n="4" facs="tcp:63909:3"/>ſo that after almoſt Nine weeks paſſage. Landing their Souldiers (of whom not above 1200. were in health or capacity to go on ſhore) and Slinging ſome ſhot into the Town, they were forc'd to make a diſhonourable Retreat, ſome slain in the Attempt, many wounded, leaving five Field pieces on ſhore in the Enemies hands (the Redemption of near a ſcore of Captives, in exchange for ſome <hi>French</hi> they took in their Voyage, being the greateſt good attain'd by this Expedition.) In there Return, they were ſo diſpers'd and endanger'd by Tem<g ref="char:EOLhyphen"/>peſtuous weather, that no further Exploits could be perform'd; Many hundreds ſick and dead of the ſmall Pox, Feavers and Fluxes; one Veſſel caſt away and about 12 men drowned, the whole Fleet not yet return'd: The charge of this Expedition is very great; ſome obſerving men judg, that this Colony cannot be leſs in Arrears than 50000 <hi>l.</hi> Tis moſt evident that the hand of God hath been againſt them in this and almoſt all other their Undertakings, which I fear is too too little taken Notice of. And now, what ſhall we do? The Flower of the Country was drawn off in this deſign, very many of whom are dead and ſick, all men Diſcourag'd, the Enemy Encourag'd and Enrag'd, from whom we may reaſonably expect Aſſaults as ſoon as the ſeaſon will permit, beſides Ships of War upon our Coaſt in the Spring: To Cry, Help on King! is a Crime almoſt unpardonable, except it be for our old Charter Government. <q>Beſides, what may His Majeſty ſay? Why you cannot have any need of my help, who have Boaſted of your being Able to make me Emperour of <hi>America;</hi> You found no need of my Orders or Aſſiſtance to Attack the King of <hi>France's</hi> Terri<g ref="char:EOLhyphen"/>tories; You need no ſettlement of Government by Charter, or otherwiſe from Me, who can take it up of your ſelves, and proceed to Election without, yea, contrary to my Orders? <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Oh miſerable deluded people! We have provoked God, who alone can ſave us; and our King, who under God, can only be our Intrumental Saviour, I fear may be provok'd to leave us helpleſs and ſuccourleſs, if God over-rule not wonderfully to prevent it. But here are many good Chriſtian Loyal Sub<g ref="char:EOLhyphen"/>jects, who are long looking, waiting and praying that God will ſo Incline the King's heart towards us, as not to leave us to Ruin one another, for want of a Settlement of ſuch methods of Government over us by His Royal Authority, as ſhall moſt Conduce to His ſervice and our good, nor leave us to become a Prey to Antichriſtian and Pagan Enemies.</p>
+            <p>To which end an Addreſs is now drawn to be ſent by this Veſſel in the Name of ſome Gentlemen, Merchants and others, wherein the deplorable Condition of the Country is ſpread before Him, and His Compaſſion and Protection crav'd; (a Copy whereof I here inelos'd) and doubt not of your readineſs to do your part for the promoting the ſame.</p>
+            <p>The eyes of the people generally begin to be open'd, ſo as, I queſtion not,
+<pb n="5" facs="tcp:63909:3" rendition="simple:additions"/>but the King's Government will be very acceptable to moſt, who yet, through Ignorance of Law, and how our Affairs rule at home, dare not ſpeak out: Be<g ref="char:EOLhyphen"/>ſides, ſome Government here muſt be, and a bad one, yea, a Uſurped one (ſay they) is better then none.</p>
+            <p>Oh how welcome would a true Information of things be to us, and a word or two of ſome Advice, how to Govern our ſelves under our great Temptations and Confuſions till His Majeſty hath determin'd His Royal Pleaſure concerning us.</p>
+            <p>On <hi>October</hi> the <hi>17th.</hi> laſt Mr. <hi>Joſ. Lynde</hi> and Mr. <hi>Sam. Hayman,</hi> both of our Town, Accoſted me with a Paper, which they call'd an Order from their General Court, the Copy whereof pleaſe to take as follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>February the 18th. 1690.</date> At the General Court of the <hi>Maſſa<g ref="char:EOLhyphen"/>chuſets</hi> Colonie in <hi>Charleſtown.</hi>
+                           </dateline>
+                        </opener>
+                        <p>It is Order'd by this Court that Capt. <hi>Laur. Hammon</hi> deliver to the Order of the County-Court for <hi>Middle.</hi> the Records of that County (that is to ſay) All Books and Files by him formerly Receiv'd from Mr. <hi>Danforth</hi> ſomtime Re<g ref="char:EOLhyphen"/>corder of that County: As alſo all other Books of Record and Files belonging unto the ſaid County in his Cuſtody.</p>
+                        <closer>Copy Ex.<signed>
+                              <hi>Iſa. Addington</hi> Secre.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>At a County Court held at <hi>Cambridge,</hi> 
+                              <date>
+                                 <hi>October</hi> the 8th. 1690.</date>
+                           </dateline>
+                        </opener>
+                        <p>Captain <hi>Joſeph Lynde</hi> and Captain <hi>Samuel Hayman</hi> are Requeſted and Im<g ref="char:EOLhyphen"/>power'd by the Court to Receive the County Records as above, from Captain <hi>Laur. Hammon.</hi> As Atteſts</p>
+                        <closer>
+                           <signed>
+                              <hi>Tho. Danforth</hi> Dep. Gover.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After a Peruſal of the ſaid Paper, I demanded a Copy of it, which they deni'd me, till I had given my Anſwer, which I deliver'd them in writing un<g ref="char:EOLhyphen"/>der my hand, in theſe following words. <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>I am Commiſſion'd by the Crown of <hi>England</hi> to be Clerk of the Peace, General Quarter Seſſions, and Inferiour Court of Common-pleas within this County of <hi>Middle.</hi> and to take into my Cuſtody and Charge all pub<g ref="char:EOLhyphen"/>lick Records and Writings belonging to the Courts of the ſaid County, and them faithfully to keep and ſecure: To which I have been likewiſe ſworn. In Obedience therefore to which Commiſſion, and in Conſcience of my Oath, I am bound to Keep and Secure the ſaid Records and Wri<g ref="char:EOLhyphen"/>tings
+<pb n="6" facs="tcp:63909:4"/>(as much as in me lies) which have been ſo deliver'd unto me and hitherto by me faithfully kept, until Orders from the ſaid Crown ſhall o<g ref="char:EOLhyphen"/>therwiſe diſpoſe of them, which when produced, I am ready to Obey.</p>
+                        <closer>
+                           <signed>L. H.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Since which I have heard no more from them. Orders from their General Court for Rates, have been at ſeveral times as fol. <hi>viz.</hi> 7<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.10.2½. and now (as its ſaid) 20. I have not heard of any Diſtraint for Payment but in <hi>Boſton,</hi> and upon one Perſon in this Town, tho' I know divers refuſe to pay. What methods will now be taken to ſtill the Clamours of thoſe (or their Rela<g ref="char:EOLhyphen"/>tions) who were in the late unhappy Expedition, are yet unknown. 'Tis cer<g ref="char:EOLhyphen"/>tain, moſt of the Seamen were Impreſſed to that ſervice, and ſo as of the Land<g ref="char:EOLhyphen"/>men, and moſt of them threatned, if they Liſted not Voluntarily they ſhould be preſt; ſo that partly thro' fear of Violence us'd with them, and partly great Ex<g ref="char:EOLhyphen"/>pectations of ſucceſs and much plunder, which was trumpeted about in the Country by ſome buſy Agents; (and ſome Clergymen in <hi>Boſton</hi> and ſome other places Crying Victory, Victory over Antichriſt in their Pulpits <hi>&amp;c.</hi>) the Poor people were enticed and drawn in to their own and the Countries (almoſt) utter Ruin. Thoſe who, in the time of their Preparations, did ſoberly diſcourſe their fears of the Imprudence (at leaſt) of this deſign, and the Rum they had a proſpect of thereby, were call'd King <hi>James</hi>'s men, Friends to <hi>French</hi> and Pa<g ref="char:EOLhyphen"/>piſts, Enemies to the Country <hi>&amp;c.</hi> for ſo doing. And now the event hath Evidenced thoſe fears not to have been groundleſs, they cenſure us (moſt un<g ref="char:EOLhyphen"/>charitably) as rejoycing at the General Calamity; which God knows, many of us mourn for, and Lament the Violent, Headſtrong and Exorbitant Courſes of thoſe who have driven on theſe and many other deſigns againſt Law and Reaſon. But I forbear;</p>
+            <p>'Tis time to conclude, which I ſhall do with Reciting one Paſſage more (which poſſibly may come to your knowledge from <hi>Virginia</hi>) of the ſtrange Actions of our preſent Rulers, which is this.</p>
+            <p>In <hi>Auguſt</hi> laſt, came a Gentleman from <hi>Virginia</hi> by Land, with divers Let<g ref="char:EOLhyphen"/>ters, eſpecially from the Lieut. Gover. <hi>Nicholſon</hi> there, to ſundry Gentlemen in <hi>Boſton,</hi> who continued in Town (as I Remember) about a fortnight, and being ready to Return, received of Divers Perſons Anſwers to the Letter, ſent them, <hi>&amp;c.</hi> But when ready to depart, his <hi>Port-Mantua</hi> wherein his Letters were, was ſeized by Order, and carri'd before the Council (his Perſon was like<g ref="char:EOLhyphen"/>wiſe ſeized and for ſome time detain'd; the <hi>Port-Mantua</hi> being Lockt, and the Owner refuſing to deliver the Key, they broke it open, took out the Letters, and open'd them, Read them; detaining what Letters they pleas'd, and reſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>ring what they pleas'd to the Meſſenger, who the next day was diſmiſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. Several Letters they did detain, directed to Gover. <hi>Nicholſon,</hi> and have <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>de the Con<g ref="char:EOLhyphen"/>tents
+<pb n="7" facs="tcp:63909:4" rendition="simple:additions"/>of mens private Letters matter of publick Diſcourſe; among which was a Letter written by the ſame Gentleman by me, (<hi>John Cutler</hi> Jun. ſigning with me) wherein I briefly recited the Heads of our late Sufferings, the Cauſes there<g ref="char:EOLhyphen"/>of, and the Conſequences; And inclos'd a Liſt of the Names of moſt of the Offi<g ref="char:EOLhyphen"/>cers and Ships gone for <hi>Canada.</hi> This was much diſcours'd of to our great Condemnation; tho' they never proceeded ſo much as to ſend for us. But the great pretence for opening theſe Letters was, A plot, Oh! a Horrid plot, <hi>viz.</hi> That it was Purpoſed and Reſolved between King <hi>William</hi>'s Gover. of <hi>Virginia,</hi> and the Malignant party, the Tory's in <hi>Boſton, Charleſtown, &amp;c.</hi> that the ſaid Gover. (now in our week Eſtate, when our ſtrength was gone) ſhould come and ſeize upon the Government here, and ſo make us all greater ſlaves than we are now (which truly would be no eaſy matter) if not to deliver us up to the <hi>French;</hi> And was not this ground ſufficient, and anſwerable to all the World, think you, to have broken open and detain'd at pleaſure, even the Letters of the King Himſelf under the like pretence? And altho' that would have been a Crime of a Higher degree; yet thus to treat the Kings Gover. is a Crime of the ſame kind, and is an Indignity ofter'd to the Kings Perſon (in my weak Opini<g ref="char:EOLhyphen"/>on) Thus Sir you have a Scheme of this matter, and a Confus'd Account of many other things, which your Wiſdom will (I hope) gather ſenſe ſo far out of, as to underſtand them by.</p>
+            <p>I fear I have tyr'd your Patience, and crave your Pardon, with my Humble ſervice I remain</p>
+            <closer>
+               <salute>Worthy Sir,</salute> 
+               <signed>Your Obliged Humble Servant. <hi>L. H.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The <hi>French</hi> at <hi>Quebeck</hi> have ſhewn great Humanity to their <hi>Engliſh</hi> Cap<g ref="char:EOLhyphen"/>tives, (as the Captives redeem'd do acknowledge) ſeveral of whom they Ran<g ref="char:EOLhyphen"/>ſom'd out of the barbarous hands of the <hi>Indians,</hi> with their mony, that they migh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be generouſly accommodated.</p>
+               <p>The Inducements to this <hi>Canada</hi> Expedition (were as we may well con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er.) a belief of an eaſie Conqueſt, abundance of Treaſure to be gotten, and a Name and Fame in the world, (eſpecially at <hi>White-hall</hi>) for our great Va<g ref="char:EOLhyphen"/>lour and high Achievements, and our zeal againſt Antichriſt (all under a pre<g ref="char:EOLhyphen"/>tence of Neceſſity, for our own Preſervation; that if we did not carry the War thither, they would bring it into our own Bowels) All pla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſible and encouraging Arguments to unthinking minds. But if it be enquir'd, by what Order, Com<g ref="char:EOLhyphen"/>miſſion or Authority this Deſign was proſecuted? The anſwer muſt be, none <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> They Iſſued Orders for ſeizing of Shipping, Proviſions, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:63909:5"/>Impreſſing of men, granted Commiſſions to Officers, Superiour and I<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eriour, and all in Their Majeſties Names, without any Order or Commiſſion, from Their Majeſties, either to Authoriſe their ſo doing or to Conſtitute them a Government in Fact or Name as they aſſume to themſelves. And the truth is, had they dealt plainly and aboveboard, according to their Principles, they ſhould have Iſſu'd out all their Warrants, and granted all their Commiſſions in the Name of the People upon whom they depend for their Authority (ſuch as it is,) and not have us'd (or rather abus'd) Their Majeſties Names, while (in Fact) they deny Their Authority: Then might the people have been diſabus'd, ſome of whom, to my knowledge, have Confidently believ'd, that nothing has been done, but by the King's Command. But I hope all theſe Miſts of Con<g ref="char:EOLhyphen"/>fuſion and Darkneſs will ſoon be ſcatter'd by the clear Sun-ſhine of the King's Authority here ſpeedily to be ſettl'd; The haſtening of which, for the preſer<g ref="char:EOLhyphen"/>ving the Intereſt of the Crown and the Refreſhing the Spirits of all Their Ma<g ref="char:EOLhyphen"/>jeſties Loyal Subjects in theſe parts, is the longing deſire, and hearty prayer of;</p>
+               <closer>
+                  <salute>Worthy Sir,</salute> 
+                  <signed>Your Humble Servant, <hi>L. H.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed <hi>April</hi> the 28th. 1691.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills</hi> in <hi>Black-Fryars</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
